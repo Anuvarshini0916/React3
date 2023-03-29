@@ -1,0 +1,46 @@
+.div-main
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.424),rgba(0, 0, 0, 0.451)),url(https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
+    background-size: cover ;
+    min-height :100vh;
+    width :100%;
+}
+.div-main h1{
+    color: plum;
+    margin-left: 12%;
+    font-size: 4em;
+    font-weight: 900;
+    padding-top: 190px;
+}
+.div-main h2{
+    color: plum;
+    margin-left: 20%;
+    font-size: 3em;
+    font-weight: 900;
+
+}
+
+
+.div-main p{
+    color: white;
+    margin-left: 12%;
+    font-size: 1.4em;
+    padding-top: 70px;
+    font-size: x-large;
+}
+.div-main a{
+    text-decoration: none;
+    border: 3px solid white;
+    padding-inline: 30px;
+    padding-block: 10px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 12%;
+    font-size: 1em;
+}
+.div-main a:hover{
+    color: black;
+    background: white;
+    transition: 0.5s;
+}
